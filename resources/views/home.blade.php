@@ -1,6 +1,4 @@
-<?php
-$name = 'Sebastian';
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,5 +10,7 @@ $name = 'Sebastian';
 </head>
 <body>
     <h1>Hello World, I am {{$name}}</h1>
+
+  
 </body>
 </html>
